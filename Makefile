@@ -37,9 +37,9 @@ else
 endif
 
 # path location for Teensy 3 core
-#COREPATH = teensy3
+COREPATH = cores/teensy3
 #COREPATH = /Volumes/FatherTime/Arduino.app/Contents/Java/hardware/teensy/avr/cores/teensy3
-COREPATH = /Users/ali/ws/teensy/cores-1.41/teensy3
+#COREPATH = /Users/ali/ws/teensy/cores-1.41/teensy3
 
 # path location for Arduino libraries
 LIBRARYPATH = libraries

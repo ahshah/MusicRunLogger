@@ -10,3 +10,9 @@
 [submodule "libraries/Time"]
 	path = libraries/Time
 	url = https://github.com/PaulStoffregen/Time
+[submodule "cores"]
+	path = cores
+	url = https://github.com/PaulStoffregen/cores/
+[submodule "libraries/SoftwareSerial"]
+	path = libraries/SoftwareSerial
+	url = https://github.com/PaulStoffregen/SoftwareSerial
