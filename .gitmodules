@@ -16,3 +16,6 @@
 [submodule "libraries/SoftwareSerial"]
 	path = libraries/SoftwareSerial
 	url = https://github.com/PaulStoffregen/SoftwareSerial
+[submodule "libraries/SPI"]
+	path = libraries/SPI
+	url = https://github.com/PaulStoffregen/SPI
