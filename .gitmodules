@@ -1,0 +1,12 @@
+[submodule "libraries/TeensyView"]
+	path = libraries/TeensyView
+	url = https://github.com/sparkfun/SparkFun_TeensyView_Arduino_Library
+[submodule "libraries/TeensyThreaded8266"]
+	path = libraries/TeensyThreaded8266
+	url = https://github.com/ahshah/TeensyThreaded8266
+[submodule "libraries/TeensyThreads"]
+	path = libraries/TeensyThreads
+	url = https://github.com/ftrias/TeensyThreads
+[submodule "libraries/Time"]
+	path = libraries/Time
+	url = https://github.com/PaulStoffregen/Time
